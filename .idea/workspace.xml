@@ -14,6 +14,7 @@
     <session id="478471745">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -36,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/solver.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="388">
-              <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="42" />
+              <caret line="30" column="42" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="42" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -67,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="width" value="981" />
     <option name="height" value="522" />
@@ -164,7 +165,7 @@
     <entry file="file://$PROJECT_DIR$/solver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="388">
-          <caret line="30" column="42" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="42" />
+          <caret line="30" column="42" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="42" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
